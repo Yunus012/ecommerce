@@ -1,4 +1,6 @@
-VIBE CODING PROJECT
+Vibe Coding Project Called CommerceLayer
+
+CommerceLayer is a frontend prototype that builds the digital layer for local businesses — transforming kirana stores, retailers, and suppliers into connected online commerce systems with inventory management, order processing, and logistics integration.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
